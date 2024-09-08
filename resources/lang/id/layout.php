@@ -1,0 +1,58 @@
+<?php
+return [
+	"profil" => [
+		"beranda" => "BERANDA",
+		"tentang_kami" => "TENTANG KAMI",
+        "solusi" => "SOLUSI",
+		"struktur_organisasi" => "STRUKTUR ORGANISASI",
+		"berita_artikel" => "BERITA & ARTIKEL",
+		"sertifikasi" => "PENGHARGAAN",
+		"kontak_kami" => "KONTAK KAMI",
+        "pengaduan" => "PENGADUAN KONSUMEN",
+        "whistleblowing" => "WHISTLEBLOWING",
+	],	
+	"perusahaan_kami" => [
+		"profil" => "PROFIL SINGKAT",
+		"perusahaan_kami" => "TENTANG KAMI",
+		"struktur_organisasi" => "STRUKTUR ORGANISASI",
+		"top_manajemen" => "MANAJEMEN",
+		"laporan_keuangan" => "LAPORAN KEUANGAN",
+		"kadiv" => "KEPALA DIVISI",
+	],	
+	"media" => [
+		"media_info" => "INFORMASI",
+		"berita" => "BERITA",
+		"artikel" => "ARTIKEL",
+		"sertifikasi" => "SERTIFIKASI",
+		"award" => "PENGHARGAAN",
+		"dokumentasi" => "KEGIATAN",
+		"podcast" => "VIDEO",
+	],
+	"logo_ojk" => "Berizin dan Diawasi oleh :",
+	"logo_indo_re" => "A Subsidiary Of :",
+	"logo_sosmed" => "Sosial Media",
+	"hak_cipta" => "Hak Cipta",
+	"pelopor" => "Indonesia Pelopor Reasuransi syariah.",
+	"seluruh" => "Seluruh hak cipta.",
+	"detail_kontak" => "Detail Kontak",
+	"tlp" => "Telepon",
+	"lokasi" => "Lokasi",
+	"dynamic" => [
+		"other" => "LAINNYA",
+	],
+	"karir" => [
+		"nav" => "KARIR",
+	],	
+	"alert" => [
+		"berita" => "Berita",
+		"karir" => "Karir",
+		"artikel" => "Artikel",
+		"sertifikasi" => "Sertifikasi",
+		"penghargaan" => "Penghargaan",
+		"dokumentasi" => "Kegiatan",
+		"video" => "Video",
+		"text1" => "Saat ini ",
+		"text2" => " belum tersedia. Silakan cek kembali nanti untuk pembaruan lebih lanjut.",
+		"kembali" => "Kembali ke Beranda"
+	],
+];

@@ -1,0 +1,58 @@
+<?php
+return [
+	"profil" => [
+		"beranda" => "HOME",
+		"tentang_kami" => "ABOUT US",
+        "solusi" => "SOLUTION",
+		"struktur_organisasi" => "ORGANIZATIONAL STRUCTURE",
+		"berita_artikel" => "NEWS & ARTICLES",
+		"sertifikasi" => "AWARD",
+		"kontak_kami" => "CONTACT US",
+        "pengaduan" => "CONSUMER COMPLAINT",
+        "whistleblowing" => "WHISTLEBLOWING",
+	],	
+	"perusahaan_kami" => [
+		"profil" => "COMPANY PROFILE",
+		"perusahaan_kami" => "ABOUT US",
+		"struktur_organisasi" => "ORGANIZATIONAL STRUCTURE",
+		"top_manajemen" => "MANAGEMENT",
+		"laporan_keuangan" => "FINANCIAL STATEMENTS",
+		"kadiv" => "HEAD OF DIVISION",
+	],
+	"media" => [
+		"media_info" => "INFORMATION",
+		"berita" => "NEWS",
+		"artikel" => "ARTICLE",
+		"sertifikasi" => "CERTIFICATION",
+		"award" => "AWARD",
+		"dokumentasi" => "ACTIVITY",
+		"podcast" => "VIDEOS",
+	],
+	"logo_ojk" => "Licensed and Supervised by :",
+	"logo_indo_re" => "A Subsidiary Of :",
+	"logo_sosmed" => "Social Media",
+	"hak_cipta" => "Copyright",
+	"pelopor" => "Indonesia Pioneer Retakaful.",
+	"seluruh" => "All Rights Reserved.",
+	"detail_kontak" => "Contact Details",
+	"lokasi" => "Location",
+	"tlp" => "Phone",
+	"dynamic" => [
+		"other" => "OTHER",
+	],
+	"karir" => [
+		"nav" => "CAREER",
+	],
+	"alert" => [
+		"berita" => "News",
+		"karir" => "Career",
+		"artikel" => "Article",
+		"sertifikasi" => "Certification",
+		"penghargaan" => "Award",
+		"dokumentasi" => "Activity",
+		"video" => "Videos",
+		"text1" => "Currently ",
+		"text2" => " is not available. Please check back later for further updates.",
+		"kembali" => "Go To Home"
+	],
+];
